@@ -1,0 +1,8 @@
+begin
+ A là s? ng?u nhiên t? 0-9
+ input M
+ if (A==M) 
+   print "dúng"
+ else 
+   print "sai"
+end
