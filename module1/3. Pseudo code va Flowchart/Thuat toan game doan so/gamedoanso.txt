@@ -1,8 +1,8 @@
 begin
- A là s? ng?u nhiên t? 0-9
+ A là so ngau nhien tu 0-9
  input M
  if (A==M) 
-   print "dúng"
+   display "dúng"
  else 
-   print "sai"
+   display "sai"
 end
